@@ -1,4 +1,4 @@
-# Fun With C#
+# The Wall
 ### *A Reasonably Opinionated Field Guide to Writing Code That Doesn't Embarrass You Later*
 
 ---
@@ -185,8 +185,8 @@ A short, slightly indulgent piece on why this book exists and who it is for. Set
 ## Folder Layout (Scaffolded)
 
 ```
-FunWithCSharp/
-├── _AUTHOR_GUIDE.md              (private — voice, thesis, conventions)
+TheWall/
+├── README.md
 ├── TABLE_OF_CONTENTS.md          (this file)
 ├── 00_Foreword/
 │   └── Foreword.md
