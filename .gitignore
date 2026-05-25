@@ -1,0 +1,17 @@
+# Local tooling / scratch
+.claude/
+_codereview_extract.txt
+
+# IDE / build output (in case code ever lands here)
+bin/
+obj/
+.vs/
+*.user
+
+# Secrets — never commit
+.env
+*.env
+appsettings.local.json
+secrets.json
+*.pfx
+*.key
