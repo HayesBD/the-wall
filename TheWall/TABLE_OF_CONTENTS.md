@@ -155,8 +155,8 @@ A short, slightly indulgent piece on why this book exists and who it is for. Set
 ## Part VII — Putting It All Together
 *In which we take the whole toolkit out for a drive and see what it can do.*
 
-- **Chapter 39 — A Case Study**
-  One problem, taken from sketch to working software, applying the principles of the series end-to-end. The domain itself is to be chosen with the reader in mind — we will work it out before drafting. *(The astute reader may notice which architecture survives the late-chapter feature requests with its dignity intact.)*
+- **Chapter 39 — A Case Study: A Document-Intelligence Tool, Built Twice**
+  One problem — a knowledge-base tool that ingests documents, embeds them, and answers an AI agent's questions over the Model Context Protocol — taken from sketch to working software, applying the principles of the series end-to-end. Built twice, as a model and as an ECS, and followed across a simulated eighteen months. A companion repository holds both as real, deployable code, milestone-tagged so you can measure the cost of change for yourself. *(The astute reader may notice which architecture survives the late-chapter feature requests with its dignity intact.)*
 
 - **Chapter 40 — Onwards**
   Where to read next. What this book deliberately did not cover. A short, slightly wistful farewell.
@@ -182,7 +182,7 @@ A short, slightly indulgent piece on why this book exists and who it is for. Set
 
 ---
 
-## Folder Layout (Scaffolded)
+## Repository Layout
 
 ```
 TheWall/
