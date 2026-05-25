@@ -1,6 +1,6 @@
 # The Wall
 ### Why software gets hard to change — and a different way to build
-*by The Bricklayer*
+*by a Bricklayer*
 
 > *Education optional. Ingenuity mandatory.*
 
